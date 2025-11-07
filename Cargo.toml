@@ -1,0 +1,11 @@
+[package]
+name = "rscryptodome-bctf"
+version = "0.1.0"
+edition = "2024"
+description = "A cryptography library for Rust"
+authors = ["smederij"]
+license = "MIT"
+repository = "https://github.com/smederij-bctf/rscryptodome-bctf"
+keywords = ["ctf"]
+
+[dependencies]
